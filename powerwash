@@ -1,1 +1,73 @@
 
+    {
+      
+      "show": true,
+      "CheckR": true,
+      "com": false,
+      "published": false,
+      
+      "version": 1,
+      "newAppLink": "",
+      
+      "video": "",
+      "privacy": "https://timohinlarica.blogspot.com/p/privacy.html",
+      "mail":"jenaswalik",
+      
+      
+      "spancount": 1,
+      
+      "guide": [
+        
+    
+   [
+            "WHAT PARENTS NEED TO KNOW",
+            "https://img.youtube.com/vi/2QtSOLy5xv0/maxresdefault.jpg",
+            "Parents need to know that PEPI HOUSE is an open-ended virtual world for kids to explore, much in the style of the Toca Life series. There are no rules, no guidelines, and no right or wrong way to play. Kids simply move objects and characters around in a variety of locations, There are some image conscious and consumerism related images in the scenery background, such as a poster that shows a before and after beauty poster with the words 'Better me' and a statue with a sign saying 'rich' The free download includes one location and four characters; the other five locations and additional characters unlock with an in app purchase of $3.99. Read the developer's privacy policy for details on how your (or your kids') information is collected, used, and shared and any choices you may have in the matter, and note that privacy policies and terms of service frequently change"
+   ]
+      ],
+      
+      
+      
+      
+      "med":false,
+      "NativeCount": 2,
+      
+      "showOnlyOpen":false,
+      
+      "snf": "mix",
+      "fan": false,
+      "adsfan": {
+ 
+        "fan_banner": "IMG_16_9_APP_INSTALL#220801140096909_224176343092722",
+        "fan_inters": "IMG_16_9_APP_INSTALL#147772497126061_147861650450479",
+        "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
+        "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
+      },
+      
+     "anticipatefantrouble":false,
+
+      "admob": false,
+      "adsadmb": {
+        "admb_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admb_inters": "ca-app-pub-3940256099942544/1033173712",
+        "admb_native": "ca-app-pub-3940256099942544/2247696110",
+        "admb_native2": "ca-app-pub-3940256099942544/2247696110",
+        "admb_openad": "ca-app-pub-3940256099942544/3419835294"
+      },
+      
+      "unity": false,
+      "adsunity": {
+        "unity_id": "3667089s",
+        "unity_inters": "video"
+      },
+      
+      
+      "more": [
+        [
+          "false",
+          "https://.com/com/miga_town_wallpapers.png",
+          "miga_town_wallpapers",
+          "hragua"
+        ]
+      ]
+    }
